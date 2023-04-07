@@ -11,3 +11,4 @@ iyi_dugum_say fonksiyonu, verilen düğümdeki iyi düğümleri saymak için öz
 
 main fonksiyonu, örnek bir ağaç oluşturur ve countGoodNodes fonksiyonunu çağırarak, iyi düğümleri sayar. Sonuç ekrana yazdırılır.
 Algoritma ağacın tüm alt düğümlerinindeki değerleri kontrol eder ve iyi düğümleri sayar. Sonuçta da iyi düğümlerin sayısı kontrol edilir.
+Kod Dev C++ uygulamasında yazılmıştır ve hazır durumdadır test için yanlızca derlenip çalıştırılması yeterlidir. Sonuç ekranda çıkacaktır.
